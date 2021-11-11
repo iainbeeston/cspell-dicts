@@ -2,6 +2,7 @@ Actionlint
 ActiveMQ
 AirWatch
 Alibaba
+AMQP
 Android
 Anka
 Ansible
@@ -29,6 +30,12 @@ HipChat
 Hunspell
 Hunspell
 mongod
+MySQL
+RabbitMQ
+Rollbar
+Postgres
+PostgreSQL
 Secretlint
 secretlintignore
+SendGrid
 yamllint
